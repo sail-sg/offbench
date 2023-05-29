@@ -7,6 +7,12 @@ This repository contains the official JAX implementation of paper
 We provide a holistic benchmark for offline reinforcement learning across both the [D4RL](https://github.com/Farama-Foundation/D4RL) and the [RL Unplugged](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) datasets. In addition, by ablating 20 low-level implementation choices, we introduce CQL+ and CRR+, which improve [CQL](https://arxiv.org/abs/2006.04779) and [CRR](https://arxiv.org/abs/2006.15134) by only choosing better implementations, and achieve the state-of-the-art results.
 
 ## Main Results
+
+### Ablating the implementation choices
+![image](https://github.com/sail-sg/offbench/assets/17567744/2f51faa4-cce7-4bc0-8f45-877084d70adb)
+
+
+### Results on D4RL dataset
 <img width="1144" alt="image" src="https://user-images.githubusercontent.com/17567744/224491030-ae50f00d-fc3c-4cef-aac3-94789f5057c1.png">
 
 ## Setup the Environment
