@@ -9,7 +9,7 @@ We provide a holistic benchmark for offline reinforcement learning across both t
 ## Main Results
 
 ### Ablating the implementation choices
-![image](https://github.com/sail-sg/offbench/assets/17567744/2f51faa4-cce7-4bc0-8f45-877084d70adb)
+![image](https://github.com/sail-sg/offbench/assets/17567744/62459cc2-dd4e-466b-b9d7-b08434e14ec0)
 
 
 ### Results on D4RL dataset
